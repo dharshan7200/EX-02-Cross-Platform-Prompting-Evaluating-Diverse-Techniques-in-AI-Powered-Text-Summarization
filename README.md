@@ -44,7 +44,7 @@ Overall, blockchain combines decentralization, security, and transparency to bui
 
 ## Summarized text
 
-Blockchain is a digital system that records and shares information securely without needing a central authority. Data is stored in “blocks” linked in a “chain,” making it nearly impossible to alter once added. Every transaction is verified by a network of computers through consensus, ensuring trust and transparency. While it became popular through Bitcoin, blockchain is now used in many fields. For example, supply chains use it to track products from farms to stores, ensuring authenticity, while healthcare uses it to securely store patient records for authorized access. By combining security, transparency, and efficiency, blockchain is reshaping how information and value are exchanged in today’s digital world.
+Blockchain is like a shared digital notebook that keeps information safe and transparent. Instead of one central authority, many computers store and verify the data, making it very hard to change or cheat. Information is saved in “blocks” that are linked together in a “chain.” While blockchain is famous for Bitcoin, it is used in many real-life applications. For example, Walmart tracks food from farms to stores to ensure safety and quality, and hospitals store patient records securely so only authorized doctors can access them. By being secure, transparent, and efficient, blockchain helps people trust digital systems and is changing how we share information and value in many industries.
 
 ## Result
 Thus the text summarization done successfully.
